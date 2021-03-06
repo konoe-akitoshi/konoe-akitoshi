@@ -19,7 +19,7 @@ Hi there! I'm Akitoshi Saeki, a robotics engineer from Japan.
 - 📫 &nbsp; How to reach me: [@konoe_akitoshi](https://twitter.com/konoe_akitoshi)
 
 <a href="https://github.com/akitoshi-nt">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aktoshi-nt&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akitoshi-nt" />
 </a>
 <a href="https://github.com/akitoshi-nt">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitoshi-nt" />
