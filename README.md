@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,I'm akitoshi 👋
 
 <p align="left"> 
   <a href="https://github.com/akitoshi-nt/akitoshi-nt/">
@@ -11,7 +11,7 @@
     <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
   </a>
 </p>
-Hey there! I'm Akitoshi Saeki, a robotics engineer from Japan.
+Hi there! I'm Akitoshi Saeki, a robotics engineer from Japan.
 
 - 🏠 &nbsp; I'm currently working at [Scramble](https://scramble-robot.org/)
 - 🌱 &nbsp; I'm studying to speak English.
