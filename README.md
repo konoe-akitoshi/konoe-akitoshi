@@ -1,8 +1,8 @@
 ### Hi there,I'm akitoshi 👋
 
 <p align="left"> 
-  <a href="https://github.com/akitoshi-nt/akitoshi-nt/">
-    <img src="https://komarev.com/ghpvc/?username=akitoshi-nt" alt="akitoshi-nt" />
+  <a href="https://github.com/konoe-akitoshi/">
+    <img src="https://komarev.com/ghpvc/?username=konoe-akitoshi" alt="konoe-akitoshi" />
   </a>
   <a href="http://twitter.com/konoe_akitoshi">
     <img height="20" src="https://img.shields.io/twitter/follow/konoe_akitoshi?label=Twitter&logo=twitter&style=flat" />
@@ -18,11 +18,11 @@ Hi there! I'm Akitoshi Saeki, a robotics engineer from Japan.
 - ⚡️ &nbsp; Fun fact: Robot,
 - 📫 &nbsp; How to reach me: [@konoe_akitoshi](https://twitter.com/konoe_akitoshi)
 
-<a href="https://github.com/akitoshi-nt">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akitoshi-nt" />
+<a href="https://github.com/konoe-akitoshi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=konoe-akitoshi" />
 </a>
-<a href="https://github.com/akitoshi-nt">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitoshi-nt" />
+<a href="https://github.com/konoe-akitoshi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konoe-akitoshi" />
 </a>
 
 
