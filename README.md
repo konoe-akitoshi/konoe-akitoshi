@@ -7,8 +7,8 @@
   <a href="http://twitter.com/konoe_akitoshi">
     <img height="20" src="https://img.shields.io/twitter/follow/konoe_akitoshi?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/akitoshi-nt">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/konoe-akitoshi">
+    <img height="20" src="https://img.shields.io/github/followers/konoe-akitoshi?label=follow&logo=github&style=flat" />
   </a>
 </p>
 Hi there! I'm Akitoshi Saeki, a robotics engineer from Japan.
