@@ -1,53 +1,57 @@
-### Hi there, I'm akitoshi 👋
+# Akitoshi Saeki 👋
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/konoe-akitoshi">
-    <img height="20" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff" alt="LinkedIn" />
+**Networking · Infrastructure · Robotics · OSS**
+
+Engineer & university student based in Tokyo, Japan.
+
+[LinkedIn](https://www.linkedin.com/in/konoe-akitoshi) · [Website](https://akitoshi-lab.com) · [Zenn](https://zenn.dev/konoe_akitoshi) · [Blog](https://blog.akitoshi-lab.com/) · [X / Twitter](https://twitter.com/konoe_akitoshi)
+
+I work on networks and servers, build robots for RoboCup, and turn infrastructure problems into open-source tools. My focus is making complex systems easier to understand and operate.
+
+## What I work on
+
+- **Networking & infrastructure** — Network and server operations, technical support, and tools that make infrastructure easier to understand.
+- **Robotics** — RoboCup Junior Soccer Open League, leading Team [NT], and the robotics community at Scramble.
+- **Open source** — Building practical tools and sharing what I learn along the way.
+
+## 🤖 Work & community
+
+- **University of Electro-Communications** — Technical Support Staff, Joint Creation and Evolution Smart Society Promotion Organization · Apr 2022–Present
+- **Infocraft Inc.** — Part-time Server Administrator · May 2023–Present
+- **UEC MMA** — Member · Apr 2022–Present
+- **Scramble** — Member, Next-Gen Robotics Engineer Support Organization · Apr 2020–Present
+- **RoboCup Junior Soccer Open League** — Leader of Team [NT]
+
+## 🛠️ Open-source projects
+
+- **[Shumoku](https://github.com/konoe-akitoshi/shumoku)** — Generate network topology maps from structured data, with live monitoring overlays. [Try it ↗](https://www.shumoku.dev/)
+- **[Adocate](https://github.com/konoe-akitoshi/Adocate)** — Add GPS metadata to photos using Google Maps location history.
+
+## 🌱 Beyond day-to-day work
+
+Currently exploring **Rust**, **Kubernetes**, and **GPU monitoring**, while improving my English.
+
+**Credentials:** CCNA CyberOps Associate (2024) · Class 4 Amateur Radio Operator
+
+I write about server tips, travel, and Advent Calendar topics on [my blog](https://blog.akitoshi-lab.com/).
+
+## GitHub at a glance
+
+<p>
+  <a href="https://github.com/konoe-akitoshi?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=konoe-akitoshi&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363d&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;card_width=420&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Public+GitHub+activity" />
+      <img width="48%" src="https://github-stats-extended.vercel.app/api?username=konoe-akitoshi&amp;theme=default&amp;hide_border=false&amp;border_radius=12&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;card_width=420&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Public+GitHub+activity" alt="Public GitHub activity: stars, commits, pull requests, and issues" />
+    </picture>
   </a>
-  <a href="https://github.com/konoe-akitoshi/">
-    <img src="https://komarev.com/ghpvc/?username=konoe-akitoshi" alt="konoe-akitoshi" />
-  </a>
-  <a href="https://twitter.com/konoe_akitoshi">
-    <img height="20" src="https://img.shields.io/twitter/follow/konoe_akitoshi?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://zenn.dev/konoe_akitoshi">
-    <img height="20" src="https://img.shields.io/badge/-Zenn-000?style=flat&logo=zenn&logoColor=fff" />
+  <a href="https://github.com/konoe-akitoshi?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=konoe-akitoshi&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363d&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;card_width=420&amp;layout=donut&amp;custom_title=Languages+in+public+repos" />
+      <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=konoe-akitoshi&amp;theme=default&amp;hide_border=false&amp;border_radius=12&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;card_width=420&amp;layout=donut&amp;custom_title=Languages+in+public+repos" alt="Language distribution across public repositories" />
+    </picture>
   </a>
 </p>
 
-I'm **Akitoshi Saeki**, an engineer and university student based in Tokyo, Japan, focused on **Networking / Infrastructure / Robotics / OSS**.
+---
 
-I work on network and server infrastructure, take part in RoboCup robotics, and build open-source tools that make technical work easier.
-
-### 🛠️ Selected Projects & OSS
-
-- **[Shumoku](https://github.com/konoe-akitoshi/shumoku)** — Generate readable network topology maps from structured data, with live monitoring overlays. [Playground & docs](https://www.shumoku.dev/)
-- [Adocate](https://github.com/konoe-akitoshi/Adocate) — Add GPS metadata to photos via Google Maps history
-
-### 🌱 About Me
-
-- 🏠  **Current Roles:**  
-  - Technical Support Staff, Joint Creation and Evolution Smart Society Promotion Organization, University of Electro-Communications (Apr 2022–Present)  
-  - Member, UEC MMA (Apr 2022–Present)  
-  - Part-time Server Administrator, Infocraft Inc. (May 2023–Present)  
-  - Member, Scramble: Next-Gen Robotics Engineer Support Organization (Apr 2020–Present)
-- 🤖  **Leadership:**  
-  - Leader, RoboCup Junior Soccer Open League Team [NT]
-- 🌱  **Learning:**  
-  - Improving English and exploring technologies like **Rust**, **Kubernetes**, and **GPU monitoring**
-- 📜  **Certifications:**  
-  - CCNA CyberOps Associate (2024)  
-  - Class 4 Amateur Radio Operator
-- 💬  **Blog & Writing:**  
-  - [akitoshi-lab.com/blog](https://blog.akitoshi-lab.com/) – Server tips, travelogues, Advent Calendar entries  
-- 📫  **Contact:**  
-  - LinkedIn: [Akitoshi Saeki](https://www.linkedin.com/in/konoe-akitoshi)
-  - Twitter: [@konoe_akitoshi](https://twitter.com/konoe_akitoshi)  
-  - Website: [akitoshi-lab.com](https://akitoshi-lab.com)
-
-<a href="https://github.com/konoe-akitoshi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=konoe-akitoshi&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/konoe-akitoshi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konoe-akitoshi&layout=compact" />
-</a>
+**Let's connect:** Happy to connect about networks, infrastructure, robotics, and OSS. [Find me on LinkedIn →](https://www.linkedin.com/in/konoe-akitoshi)
