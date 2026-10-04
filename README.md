@@ -4,7 +4,11 @@
 
 Engineer & university student based in Tokyo, Japan.
 
-[LinkedIn](https://www.linkedin.com/in/konoe-akitoshi) · [Website](https://akitoshi-lab.com) · [Zenn](https://zenn.dev/konoe_akitoshi) · [Blog](https://blog.akitoshi-lab.com/) · [X / Twitter](https://twitter.com/konoe_akitoshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/konoe-akitoshi)
+[![Website](https://img.shields.io/badge/Website-334155?style=flat-square&logo=googlechrome&logoColor=white)](https://akitoshi-lab.com)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/konoe_akitoshi)
+[![Blog](https://img.shields.io/badge/Blog-334155?style=flat-square&logo=rss&logoColor=white)](https://blog.akitoshi-lab.com/)
+[![X](https://img.shields.io/badge/X-334155?style=flat-square&logo=x&logoColor=white)](https://twitter.com/konoe_akitoshi)
 
 I work on networks and servers, build robots for RoboCup, and turn infrastructure problems into open-source tools. My focus is making complex systems easier to understand and operate.
 
@@ -40,14 +44,14 @@ I write about server tips, travel, and Advent Calendar topics on [my blog](https
 <p>
   <a href="https://github.com/konoe-akitoshi?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=konoe-akitoshi&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363d&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;card_width=420&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Public+GitHub+activity" />
-      <img width="48%" src="https://github-stats-extended.vercel.app/api?username=konoe-akitoshi&amp;theme=default&amp;hide_border=false&amp;border_radius=12&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;card_width=420&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Public+GitHub+activity" alt="Public GitHub activity: stars, commits, pull requests, and issues" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=konoe-akitoshi&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363d&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;card_width=390&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Public+GitHub+activity" />
+      <img width="390" src="https://github-stats-extended.vercel.app/api?username=konoe-akitoshi&amp;theme=default&amp;hide_border=false&amp;border_radius=12&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;card_width=390&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Public+GitHub+activity" alt="Public GitHub activity: stars, commits, pull requests, and issues" />
     </picture>
   </a>
   <a href="https://github.com/konoe-akitoshi?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=konoe-akitoshi&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363d&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;card_width=420&amp;layout=donut&amp;custom_title=Languages+in+public+repos" />
-      <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=konoe-akitoshi&amp;theme=default&amp;hide_border=false&amp;border_radius=12&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;card_width=420&amp;layout=donut&amp;custom_title=Languages+in+public+repos" alt="Language distribution across public repositories" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=konoe-akitoshi&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363d&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;card_width=390&amp;layout=compact&amp;langs_count=8&amp;custom_title=Languages+in+public+repos" />
+      <img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=konoe-akitoshi&amp;theme=default&amp;hide_border=false&amp;border_radius=12&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;card_width=390&amp;layout=compact&amp;langs_count=8&amp;custom_title=Languages+in+public+repos" alt="Language distribution across public repositories" />
     </picture>
   </a>
 </p>
