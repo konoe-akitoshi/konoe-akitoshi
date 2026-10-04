@@ -41,20 +41,7 @@ I write about server tips, travel, and Advent Calendar topics on [my blog](https
 
 ## GitHub at a glance
 
-<p>
-  <a href="https://github.com/konoe-akitoshi?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=konoe-akitoshi&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363d&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;card_width=390&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Public+GitHub+activity" />
-      <img width="390" src="https://github-stats-extended.vercel.app/api?username=konoe-akitoshi&amp;theme=default&amp;hide_border=false&amp;border_radius=12&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;card_width=390&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Public+GitHub+activity" alt="Public GitHub activity: stars, commits, pull requests, and issues" />
-    </picture>
-  </a>
-  <a href="https://github.com/konoe-akitoshi?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=konoe-akitoshi&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363d&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;card_width=390&amp;layout=compact&amp;langs_count=8&amp;custom_title=Languages+in+public+repos" />
-      <img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=konoe-akitoshi&amp;theme=default&amp;hide_border=false&amp;border_radius=12&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;card_width=390&amp;layout=compact&amp;langs_count=8&amp;custom_title=Languages+in+public+repos" alt="Language distribution across public repositories" />
-    </picture>
-  </a>
-</p>
+<p><a href="https://github.com/konoe-akitoshi?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=konoe-akitoshi&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363d&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;card_width=390&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Public+GitHub+activity" /><img width="390" src="https://github-stats-extended.vercel.app/api?username=konoe-akitoshi&amp;theme=default&amp;hide_border=false&amp;border_radius=12&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;card_width=390&amp;show_icons=true&amp;hide_rank=true&amp;custom_title=Public+GitHub+activity" alt="Public GitHub activity: stars, commits, pull requests, and issues" /></picture></a><a href="https://github.com/konoe-akitoshi?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=konoe-akitoshi&amp;theme=github_dark&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363d&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;card_width=390&amp;layout=compact&amp;langs_count=8&amp;custom_title=Languages+in+public+repos" /><img width="390" src="https://github-stats-extended.vercel.app/api/top-langs/?username=konoe-akitoshi&amp;theme=default&amp;hide_border=false&amp;border_radius=12&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;card_width=390&amp;layout=compact&amp;langs_count=8&amp;custom_title=Languages+in+public+repos" alt="Language distribution across public repositories" /></picture></a></p>
 
 ---
 
